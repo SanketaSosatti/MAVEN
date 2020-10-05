@@ -1,2 +1,9 @@
-# MAVEN
-Hello Sanketa, how are you?
+
+class Hello
+{
+ Public static void main ( string args[])
+ {
+ 	system.out.println("helloworld");
+	}
+}
+
